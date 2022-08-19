@@ -1,0 +1,23 @@
+{
+  "name": "instalacionnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachobeltran10/MaquetandoBootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nachobeltran10/MaquetandoBootstrap/issues"
+  },
+  "homepage": "https://github.com/nachobeltran10/MaquetandoBootstrap#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
