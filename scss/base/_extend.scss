@@ -1,0 +1,9 @@
+%disposicion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-item{
+    @extend %disposicion
+}

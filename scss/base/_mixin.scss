@@ -1,0 +1,5 @@
+@mixin colores ($colors, $ancho, $alto) {
+    background-color: $colors;
+    width: $ancho;
+    height: $alto;
+} 
