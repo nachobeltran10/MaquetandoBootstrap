@@ -78,6 +78,38 @@ body {
 h1 {
   justify-content: center;
   text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+  padding: 3px;
+  color: grey;
+}
+
+/* ---------- NOSOTROS -------------*/
+.parrafo {
+  justify-content: center;
+  text-align: justify;
+  margin: 20px;
+  padding: 20px;
+  color: black;
+}
+
+.thumbnail:hover {
+  filter: opacity(0.9);
+  transform: scale(1.04);
+}
+
+/* ---------- SERVICIOS -------------*/
+.parrafo-servicios {
+  justify-content: center;
+  text-align: justify;
+  margin: 10px;
+  padding: 12px;
+  color: black;
+}
+
+.clearfix {
+  justify-items: center;
+  flex-direction: column;
 }
 
 /*# sourceMappingURL=style.css.map */
